@@ -14,7 +14,7 @@ Mit diesen Schritten kannst du einen lokalen Jupyter Server auf Windows einricht
     - Es wird eine Ordner angelegt unter: "C:\benutzer\$deinbenutzername$\Dokumente\jupyter"<br> 
       falls der Ordner schon existiert, wird der Container einfach damit verbunden.<br>
       Dokumente die in dem Ordner sind stehen in der Jupyter Umgebung zur Verfügung und Dokumente die in Jupyter erstellt werden sind da gespeichert.
-    - Es wird eine Desktopverknüpfung eingerichtet, mit der JupyterLab gestartet werden kann. Indem die Datei "start_jupyter.bat" aufgerufen wird<br><br>
+    - Es wird eine Desktopverknüpfung eingerichtet, mit der JupyterLab gestartet werden kann. Indem die Datei "start_jupyter.bat" aufgerufen wird.<br>
    
 5. Es ist sollte soweit alles parat sein. Von nun an solltest du JupyterLab von der Desktopverknüpfung aus starten können.
 
