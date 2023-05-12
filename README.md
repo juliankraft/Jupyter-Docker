@@ -10,7 +10,7 @@ Mit diesen Schritten kannst du einen lokalen Jupyter Server auf Windows einricht
 3. Sicherstellen, dass die Docker Desktop up to date und einsatzfähig ist. Danach kann Docker Desktop wieder geschlossen werden.
 
 4. Danach die Datei "setup_jupyter_docker.bat" ausführen.
-    Diese Datei Initialisiert einen Docker Container, indem Jupyter eingerichtet ist und läuft. 
+    - Diese Datei Initialisiert einen Docker Container, indem Jupyter eingerichtet ist und läuft. 
     - Es wird eine Ordner angelegt unter: "C:\benutzer\$deinbenutzername$\Dokumente\jupyter"<br> 
       falls der Ordner schon existiert, wird der Container einfach damit verbunden.<br>
       Dokumente die in dem Ordner sind stehen in der Jupyter Umgebung zur Verfügung und Dokumente die in Jupyter erstellt werden sind da gespeichert.
