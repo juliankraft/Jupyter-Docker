@@ -3,7 +3,7 @@
 ## Anleitung
 Mit diesen Schritten kannst du einen lokalen Jupyter Server auf Windows einrichten und laufen lassen.
 
-1.) Inhalt an einen Ort entpacken, wo er bleiben kann.
+1.) Inhalt an einen Ort laden, wo er bleiben kann.
 
 2.) Docker Desktop installieren: https://www.docker.com/get-started/
 
